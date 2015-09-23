@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://a7510774.github.io/atom.xml" rel="self"/>
   <link href="http://a7510774.github.io/"/>
-  <updated>2015-09-23T16:25:13+08:00</updated>
+  <updated>2015-09-23T16:32:04+08:00</updated>
   <id>http://a7510774.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Di [?] Ge Bo Ke Ce Shi]]></title>
+    <link href="http://a7510774.github.io/blog/2015/09/23/di-%5B%3F%5D-ge-bo-ke-ce-shi/"/>
+    <updated>2015-09-23T00:00:00+08:00</updated>
+    <id>http://a7510774.github.io/blog/2015/09/23/di-[?]-ge-bo-ke-ce-shi</id>
+    <content type="html"><![CDATA[<p>测试内容。。。</p>
+]]></content>
+  </entry>
   
 </feed>
