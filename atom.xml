@@ -4,7 +4,7 @@
   <title><![CDATA[苦瓜]]></title>
   <link href="http://a7510774.github.io/atom.xml" rel="self"/>
   <link href="http://a7510774.github.io/"/>
-  <updated>2015-09-24T11:30:11+08:00</updated>
+  <updated>2015-09-24T11:33:07+08:00</updated>
   <id>http://a7510774.github.io/</id>
   <author>
     <name><![CDATA[陈冠文]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[标题测试]]></title>
-    <link href="http://a7510774.github.io/blog/%E6%A0%87%E9%A2%98%E6%B5%8B%E8%AF%95.html/"/>
+    <title type="html"><![CDATA[Di [?] Ge Bo Ke Ce Shi]]></title>
+    <link href="http://a7510774.github.io/blog/di-%5B%3F%5D-ge-bo-ke-ce-shi.html/"/>
     <updated>2015-09-23T00:00:00+08:00</updated>
-    <id>http://a7510774.github.io/blog/标题测试</id>
+    <id>http://a7510774.github.io/blog/di-[?]-ge-bo-ke-ce-shi</id>
     <content type="html"><![CDATA[<p>测试内容。。。</p>
 ]]></content>
   </entry>
