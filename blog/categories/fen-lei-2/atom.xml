@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[苦瓜]]></title>
-  <link href="http://a7510774.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 分类2 | 苦瓜]]></title>
+  <link href="http://a7510774.github.io/blog/categories/fen-lei-2/atom.xml" rel="self"/>
   <link href="http://a7510774.github.io/"/>
   <updated>2015-09-24T15:22:40+08:00</updated>
   <id>http://a7510774.github.io/</id>
@@ -19,15 +19,6 @@
     <updated>2015-09-24T11:49:40+08:00</updated>
     <id>http://a7510774.github.io/blog/2015/09/24/biao-ti-ce-shi</id>
     <content type="html"><![CDATA[<p>你好吗？ _还好吧！ 还好吧！</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Post Title]]></title>
-    <link href="http://a7510774.github.io/blog/2015/09/24/post-title/"/>
-    <updated>2015-09-24T11:46:03+08:00</updated>
-    <id>http://a7510774.github.io/blog/2015/09/24/post-title</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
