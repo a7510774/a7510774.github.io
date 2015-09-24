@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[苦瓜]]></title>
-  <link href="http://a7510774.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 分类1 | 苦瓜]]></title>
+  <link href="http://a7510774.github.io/blog/categories/fen-lei-1/atom.xml" rel="self"/>
   <link href="http://a7510774.github.io/"/>
   <updated>2015-09-24T11:46:48+08:00</updated>
   <id>http://a7510774.github.io/</id>
@@ -19,15 +19,6 @@
     <updated>2015-09-24T11:46:03+08:00</updated>
     <id>http://a7510774.github.io/blog/2015/09/24/post-title</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Post Di [?] Ge Bo Ke Ce Shi]]></title>
-    <link href="http://a7510774.github.io/blog/2015/09/23/Post-di-%5B%3F%5D-ge-bo-ke-ce-shi/"/>
-    <updated>2015-09-23T00:00:00+08:00</updated>
-    <id>http://a7510774.github.io/blog/2015/09/23/Post-di-[?]-ge-bo-ke-ce-shi</id>
-    <content type="html"><![CDATA[<p>测试内容。。。</p>
 ]]></content>
   </entry>
   
