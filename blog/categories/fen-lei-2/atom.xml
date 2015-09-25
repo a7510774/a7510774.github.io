@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 分类2 | 苦瓜]]></title>
+  <link href="http://a7510774.github.io/blog/categories/fen-lei-2/atom.xml" rel="self"/>
+  <link href="http://a7510774.github.io/"/>
+  <updated>2015-09-24T17:01:34+08:00</updated>
+  <id>http://a7510774.github.io/</id>
+  <author>
+    <name><![CDATA[陈冠文]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[标题测试]]></title>
+    <link href="http://a7510774.github.io/blog/2015/09/24/biao-ti-ce-shi/"/>
+    <updated>2015-09-24T11:49:40+08:00</updated>
+    <id>http://a7510774.github.io/blog/2015/09/24/biao-ti-ce-shi</id>
+    <content type="html"><![CDATA[<p>你好吗？ _还好吧！ 还好吧！</p>
+]]></content>
+  </entry>
+  
+</feed>
